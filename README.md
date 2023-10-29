@@ -24,7 +24,7 @@ Introducing the Cover Letter Generator, a cutting-edge tool crafted to help you 
    pip install -r requirements.txt
    ```
 
-4. Paste your Replicate API token in the secrets.toml file:
+4. Paste your OpenAI API token in the secrets.toml file:
 
    ```bash
    OPENAI_API_KEY = "paste-your-openai-key"
